@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Workspace\\PizzaShop - Copy\\PizzaOrderSystem\\PizzaOrderSystem.csproj",
+      "projectUniqueName": "D:\\Workspace\\PizzaShop\\PizzaOrderSystem\\PizzaOrderSystem.csproj",
       "projectName": "PizzaOrderSystem",
-      "projectPath": "D:\\Workspace\\PizzaShop - Copy\\PizzaOrderSystem\\PizzaOrderSystem.csproj",
+      "projectPath": "D:\\Workspace\\PizzaShop\\PizzaOrderSystem\\PizzaOrderSystem.csproj",
       "packagesPath": "C:\\Users\\anila\\.nuget\\packages\\",
-      "outputPath": "D:\\Workspace\\PizzaShop - Copy\\PizzaOrderSystem\\obj\\",
+      "outputPath": "D:\\Workspace\\PizzaShop\\PizzaOrderSystem\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\anila\\AppData\\Roaming\\NuGet\\NuGet.Config",

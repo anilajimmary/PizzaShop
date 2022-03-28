@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "j2IXOikRViv1zcBGDiWMhVYlGPNZA2+nbbKm03PaV4y81p/3dAzTDcKG5v6f3HvOb5vSHyNAVzAByKnLlfuffw==",
+  "dgSpecHash": "l8S6KnIqKqFFecm1B/QDtGDseOoncEn0c+lFaUB6pp3JYJ8KB8bBWGx5fN8EmaKwyInBBjF5vjDxr83WvO8hOQ==",
   "success": true,
-  "projectFilePath": "D:\\Workspace\\PizzaShop - Copy\\PizzaOrderSystem\\PizzaOrderSystem.csproj",
+  "projectFilePath": "D:\\Workspace\\PizzaShop\\PizzaOrderSystem\\PizzaOrderSystem.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\anila\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\anila\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
