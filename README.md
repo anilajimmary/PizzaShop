@@ -1,6 +1,6 @@
 # PizzaShop Application
 
-** Description **
+**Description**
 
 This is an application for users to order Pizza. 
 
