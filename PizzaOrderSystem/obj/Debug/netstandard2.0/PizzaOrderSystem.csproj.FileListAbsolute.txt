@@ -1,0 +1,20 @@
+D:\Workspace\PizzaShop\PizzaOrderSystem\bin\Debug\netstandard2.0\PizzaOrderSystem.deps.json
+D:\Workspace\PizzaShop\PizzaOrderSystem\bin\Debug\netstandard2.0\PizzaOrderSystem.dll
+D:\Workspace\PizzaShop\PizzaOrderSystem\bin\Debug\netstandard2.0\PizzaOrderSystem.pdb
+D:\Workspace\PizzaShop\PizzaOrderSystem\obj\Debug\netstandard2.0\PizzaOrderSystem.csproj.AssemblyReference.cache
+D:\Workspace\PizzaShop\PizzaOrderSystem\obj\Debug\netstandard2.0\PizzaOrderSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\PizzaShop\PizzaOrderSystem\obj\Debug\netstandard2.0\PizzaOrderSystem.AssemblyInfoInputs.cache
+D:\Workspace\PizzaShop\PizzaOrderSystem\obj\Debug\netstandard2.0\PizzaOrderSystem.AssemblyInfo.cs
+D:\Workspace\PizzaShop\PizzaOrderSystem\obj\Debug\netstandard2.0\PizzaOrderSystem.csproj.CoreCompileInputs.cache
+D:\Workspace\PizzaShop\PizzaOrderSystem\obj\Debug\netstandard2.0\PizzaOrderSystem.dll
+D:\Workspace\PizzaShop\PizzaOrderSystem\obj\Debug\netstandard2.0\PizzaOrderSystem.pdb
+D:\Workspace\PizzaShop - Copy\PizzaOrderSystem\bin\Debug\netstandard2.0\PizzaOrderSystem.deps.json
+D:\Workspace\PizzaShop - Copy\PizzaOrderSystem\bin\Debug\netstandard2.0\PizzaOrderSystem.dll
+D:\Workspace\PizzaShop - Copy\PizzaOrderSystem\bin\Debug\netstandard2.0\PizzaOrderSystem.pdb
+D:\Workspace\PizzaShop - Copy\PizzaOrderSystem\obj\Debug\netstandard2.0\PizzaOrderSystem.csproj.AssemblyReference.cache
+D:\Workspace\PizzaShop - Copy\PizzaOrderSystem\obj\Debug\netstandard2.0\PizzaOrderSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\PizzaShop - Copy\PizzaOrderSystem\obj\Debug\netstandard2.0\PizzaOrderSystem.AssemblyInfoInputs.cache
+D:\Workspace\PizzaShop - Copy\PizzaOrderSystem\obj\Debug\netstandard2.0\PizzaOrderSystem.AssemblyInfo.cs
+D:\Workspace\PizzaShop - Copy\PizzaOrderSystem\obj\Debug\netstandard2.0\PizzaOrderSystem.csproj.CoreCompileInputs.cache
+D:\Workspace\PizzaShop - Copy\PizzaOrderSystem\obj\Debug\netstandard2.0\PizzaOrderSystem.dll
+D:\Workspace\PizzaShop - Copy\PizzaOrderSystem\obj\Debug\netstandard2.0\PizzaOrderSystem.pdb

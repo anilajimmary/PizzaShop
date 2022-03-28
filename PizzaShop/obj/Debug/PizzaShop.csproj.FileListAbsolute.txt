@@ -1,0 +1,118 @@
+D:\Workspace\PizzaShop\PizzaShop\bin\PizzaShop.dll.config
+D:\Workspace\PizzaShop\PizzaShop\bin\PizzaShop.dll
+D:\Workspace\PizzaShop\PizzaShop\bin\PizzaShop.pdb
+D:\Workspace\PizzaShop\PizzaShop\bin\roslyn\csc.exe
+D:\Workspace\PizzaShop\PizzaShop\bin\roslyn\csc.exe.config
+D:\Workspace\PizzaShop\PizzaShop\bin\roslyn\csc.rsp
+D:\Workspace\PizzaShop\PizzaShop\bin\roslyn\csi.exe
+D:\Workspace\PizzaShop\PizzaShop\bin\roslyn\csi.exe.config
+D:\Workspace\PizzaShop\PizzaShop\bin\roslyn\csi.rsp
+D:\Workspace\PizzaShop\PizzaShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Workspace\PizzaShop\PizzaShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Workspace\PizzaShop\PizzaShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Workspace\PizzaShop\PizzaShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Workspace\PizzaShop\PizzaShop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Workspace\PizzaShop\PizzaShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Workspace\PizzaShop\PizzaShop\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Workspace\PizzaShop\PizzaShop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Workspace\PizzaShop\PizzaShop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Workspace\PizzaShop\PizzaShop\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Workspace\PizzaShop\PizzaShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Workspace\PizzaShop\PizzaShop\bin\roslyn\System.Collections.Immutable.dll
+D:\Workspace\PizzaShop\PizzaShop\bin\roslyn\System.Reflection.Metadata.dll
+D:\Workspace\PizzaShop\PizzaShop\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Workspace\PizzaShop\PizzaShop\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Workspace\PizzaShop\PizzaShop\bin\roslyn\vbc.exe
+D:\Workspace\PizzaShop\PizzaShop\bin\roslyn\vbc.exe.config
+D:\Workspace\PizzaShop\PizzaShop\bin\roslyn\vbc.rsp
+D:\Workspace\PizzaShop\PizzaShop\bin\roslyn\VBCSCompiler.exe
+D:\Workspace\PizzaShop\PizzaShop\bin\roslyn\VBCSCompiler.exe.config
+D:\Workspace\PizzaShop\PizzaShop\bin\EntityFramework.dll
+D:\Workspace\PizzaShop\PizzaShop\bin\EntityFramework.SqlServer.dll
+D:\Workspace\PizzaShop\PizzaShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Workspace\PizzaShop\PizzaShop\bin\Microsoft.Web.Infrastructure.dll
+D:\Workspace\PizzaShop\PizzaShop\bin\PizzaOrderSystem.dll
+D:\Workspace\PizzaShop\PizzaShop\bin\System.Web.Helpers.dll
+D:\Workspace\PizzaShop\PizzaShop\bin\System.Web.Mvc.dll
+D:\Workspace\PizzaShop\PizzaShop\bin\System.Web.Razor.dll
+D:\Workspace\PizzaShop\PizzaShop\bin\System.Web.Webpages.Deployment.dll
+D:\Workspace\PizzaShop\PizzaShop\bin\System.Web.Webpages.dll
+D:\Workspace\PizzaShop\PizzaShop\bin\System.Web.Webpages.Razor.dll
+D:\Workspace\PizzaShop\PizzaShop\bin\PizzaOrderSystem.pdb
+D:\Workspace\PizzaShop\PizzaShop\bin\EntityFramework.xml
+D:\Workspace\PizzaShop\PizzaShop\bin\EntityFramework.SqlServer.xml
+D:\Workspace\PizzaShop\PizzaShop\bin\System.Web.Razor.xml
+D:\Workspace\PizzaShop\PizzaShop\bin\System.Web.Webpages.xml
+D:\Workspace\PizzaShop\PizzaShop\bin\System.Web.Webpages.Deployment.xml
+D:\Workspace\PizzaShop\PizzaShop\bin\System.Web.Webpages.Razor.xml
+D:\Workspace\PizzaShop\PizzaShop\bin\System.Web.Helpers.xml
+D:\Workspace\PizzaShop\PizzaShop\bin\System.Web.Mvc.xml
+D:\Workspace\PizzaShop\PizzaShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Workspace\PizzaShop\PizzaShop\obj\Debug\PizzaShop.csproj.AssemblyReference.cache
+D:\Workspace\PizzaShop\PizzaShop\obj\Debug\PizzaShop.csproj.CoreCompileInputs.cache
+D:\Workspace\PizzaShop\PizzaShop\obj\Debug\PizzaShop.csproj.CopyComplete
+D:\Workspace\PizzaShop\PizzaShop\obj\Debug\PizzaShop.dll
+D:\Workspace\PizzaShop\PizzaShop\obj\Debug\PizzaShop.pdb
+D:\Workspace\PizzaShop\PizzaShop\bin\roslyn\System.Buffers.dll
+D:\Workspace\PizzaShop\PizzaShop\bin\roslyn\System.Memory.dll
+D:\Workspace\PizzaShop\PizzaShop\bin\roslyn\System.Numerics.Vectors.dll
+D:\Workspace\PizzaShop\PizzaShop\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+D:\Workspace\PizzaShop - Copy\PizzaShop\bin\PizzaShop.dll.config
+D:\Workspace\PizzaShop - Copy\PizzaShop\bin\PizzaShop.dll
+D:\Workspace\PizzaShop - Copy\PizzaShop\bin\PizzaShop.pdb
+D:\Workspace\PizzaShop - Copy\PizzaShop\bin\roslyn\csc.exe
+D:\Workspace\PizzaShop - Copy\PizzaShop\bin\roslyn\csc.exe.config
+D:\Workspace\PizzaShop - Copy\PizzaShop\bin\roslyn\csc.rsp
+D:\Workspace\PizzaShop - Copy\PizzaShop\bin\roslyn\csi.exe
+D:\Workspace\PizzaShop - Copy\PizzaShop\bin\roslyn\csi.exe.config
+D:\Workspace\PizzaShop - Copy\PizzaShop\bin\roslyn\csi.rsp
+D:\Workspace\PizzaShop - Copy\PizzaShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Workspace\PizzaShop - Copy\PizzaShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Workspace\PizzaShop - Copy\PizzaShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Workspace\PizzaShop - Copy\PizzaShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Workspace\PizzaShop - Copy\PizzaShop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Workspace\PizzaShop - Copy\PizzaShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Workspace\PizzaShop - Copy\PizzaShop\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Workspace\PizzaShop - Copy\PizzaShop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Workspace\PizzaShop - Copy\PizzaShop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Workspace\PizzaShop - Copy\PizzaShop\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Workspace\PizzaShop - Copy\PizzaShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Workspace\PizzaShop - Copy\PizzaShop\bin\roslyn\System.Buffers.dll
+D:\Workspace\PizzaShop - Copy\PizzaShop\bin\roslyn\System.Collections.Immutable.dll
+D:\Workspace\PizzaShop - Copy\PizzaShop\bin\roslyn\System.Memory.dll
+D:\Workspace\PizzaShop - Copy\PizzaShop\bin\roslyn\System.Numerics.Vectors.dll
+D:\Workspace\PizzaShop - Copy\PizzaShop\bin\roslyn\System.Reflection.Metadata.dll
+D:\Workspace\PizzaShop - Copy\PizzaShop\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+D:\Workspace\PizzaShop - Copy\PizzaShop\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Workspace\PizzaShop - Copy\PizzaShop\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Workspace\PizzaShop - Copy\PizzaShop\bin\roslyn\vbc.exe
+D:\Workspace\PizzaShop - Copy\PizzaShop\bin\roslyn\vbc.exe.config
+D:\Workspace\PizzaShop - Copy\PizzaShop\bin\roslyn\vbc.rsp
+D:\Workspace\PizzaShop - Copy\PizzaShop\bin\roslyn\VBCSCompiler.exe
+D:\Workspace\PizzaShop - Copy\PizzaShop\bin\roslyn\VBCSCompiler.exe.config
+D:\Workspace\PizzaShop - Copy\PizzaShop\bin\EntityFramework.dll
+D:\Workspace\PizzaShop - Copy\PizzaShop\bin\EntityFramework.SqlServer.dll
+D:\Workspace\PizzaShop - Copy\PizzaShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Workspace\PizzaShop - Copy\PizzaShop\bin\Microsoft.Web.Infrastructure.dll
+D:\Workspace\PizzaShop - Copy\PizzaShop\bin\PizzaOrderSystem.dll
+D:\Workspace\PizzaShop - Copy\PizzaShop\bin\System.Web.Helpers.dll
+D:\Workspace\PizzaShop - Copy\PizzaShop\bin\System.Web.Mvc.dll
+D:\Workspace\PizzaShop - Copy\PizzaShop\bin\System.Web.Razor.dll
+D:\Workspace\PizzaShop - Copy\PizzaShop\bin\System.Web.Webpages.Deployment.dll
+D:\Workspace\PizzaShop - Copy\PizzaShop\bin\System.Web.Webpages.dll
+D:\Workspace\PizzaShop - Copy\PizzaShop\bin\System.Web.Webpages.Razor.dll
+D:\Workspace\PizzaShop - Copy\PizzaShop\bin\PizzaOrderSystem.pdb
+D:\Workspace\PizzaShop - Copy\PizzaShop\bin\EntityFramework.xml
+D:\Workspace\PizzaShop - Copy\PizzaShop\bin\EntityFramework.SqlServer.xml
+D:\Workspace\PizzaShop - Copy\PizzaShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Workspace\PizzaShop - Copy\PizzaShop\bin\System.Web.Razor.xml
+D:\Workspace\PizzaShop - Copy\PizzaShop\bin\System.Web.Webpages.xml
+D:\Workspace\PizzaShop - Copy\PizzaShop\bin\System.Web.Webpages.Deployment.xml
+D:\Workspace\PizzaShop - Copy\PizzaShop\bin\System.Web.Webpages.Razor.xml
+D:\Workspace\PizzaShop - Copy\PizzaShop\bin\System.Web.Helpers.xml
+D:\Workspace\PizzaShop - Copy\PizzaShop\bin\System.Web.Mvc.xml
+D:\Workspace\PizzaShop - Copy\PizzaShop\obj\Debug\PizzaShop.csproj.AssemblyReference.cache
+D:\Workspace\PizzaShop - Copy\PizzaShop\obj\Debug\PizzaShop.csproj.CoreCompileInputs.cache
+D:\Workspace\PizzaShop - Copy\PizzaShop\obj\Debug\PizzaShop.csproj.CopyComplete
+D:\Workspace\PizzaShop - Copy\PizzaShop\obj\Debug\PizzaShop.dll
+D:\Workspace\PizzaShop - Copy\PizzaShop\obj\Debug\PizzaShop.pdb

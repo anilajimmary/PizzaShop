@@ -1,0 +1,23 @@
+﻿@model PizzaShop.Models.PizzaShopViewModel
+
+@{
+    ViewBag.Title = "Your Order";
+}
+
+
+
+<div>
+    <hr />
+    <dl class="dl-horizontal">
+       
+
+        <dd>
+            <h3 style="color:cadetblue"> You order for @Html.DisplayFor(model => model.PizzaName) is successfull.Will be delivered shortly   </h3>
+            
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Order Again", "OrderAction")
+</p>
